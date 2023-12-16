@@ -20,7 +20,9 @@
 			"**/.trunk/*notifications/": true,
 			"**/.trunk/*out/": true,
 			"**/.trunk/*plugins/": true,
-			"**/.trunk": true
+			"**/.trunk": true,
+			"**/.Trash-1000": true,
+			".Trash-1000": true
 		},
 		"explorerExclude.backup": {}
 	}
