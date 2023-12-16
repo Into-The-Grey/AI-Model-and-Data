@@ -4,5 +4,24 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			"**/.github": true,
+			"**/.pytest_cache": true,
+			"**/*.code-workspace": true,
+			"**/.trunk/*actions/": true,
+			"**/.trunk/*logs/": true,
+			"**/.trunk/*notifications/": true,
+			"**/.trunk/*out/": true,
+			"**/.trunk/*plugins/": true,
+			"**/.trunk": true
+		},
+		"explorerExclude.backup": {}
+	}
 }
