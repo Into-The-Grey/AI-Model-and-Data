@@ -17,5 +17,5 @@ def download_model(model_name: str, save_directory: str):
 # Call the download_model function
 download_model(
     model_name="EleutherAI/gpt-j-6B",
-    save_directory="/mnt/AI Model \Data/Model Weights & Code",
+    save_directory="/mnt/AI Model \\Data/Model Weights & Code",
 )
