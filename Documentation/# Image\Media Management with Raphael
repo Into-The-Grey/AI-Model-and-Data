@@ -1,0 +1,25 @@
+# Image/Media Management with Raphael
+
+## Objective
+
+Develop Raphael's capabilities to sort and manage image and media files, including detecting and removing duplicates.
+
+## Media Sorting
+
+- **Categorization**: Sort images and media based on metadata like creation date, format, or source.
+- **Content Analysis**: Use image recognition to categorize media based on content (e.g., landscapes, portraits).
+
+## Duplicate Detection and Removal
+
+- **Detection Algorithm**: Implement algorithms to identify duplicate files based on content, metadata, or file hashes.
+- **Automated Cleanup**: Develop a system for safe removal of duplicates, with user confirmation steps.
+
+## Considerations
+
+- **Accuracy**: Prioritize accurate detection to avoid loss of important data.
+- **User Control**: Allow user oversight and final decision-making in duplicate removal.
+
+## Future Enhancements
+
+- Integrate AI-based content recognition for advanced media sorting.
+- Explore options for automated backup before deletion of duplicates.
