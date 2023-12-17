@@ -2,5 +2,16 @@
     "cSpell.words": [
         "BBE",
         "runtimes"
-    ]
+    ],
+    "editor.colorDecoratorsLimit": 1000,
+    "editor.columnSelection": true,
+    "editor.experimental.asyncTokenizationLogging": true,
+    "editor.inlayHints.padding": true,
+    "editor.lightbulb.experimental.showAiIcon": "onCode",
+    "editor.semanticHighlighting.enabled": true,
+    "files.autoGuessEncoding": true,
+    "scm.alwaysShowRepositories": true,
+    "terminal.integrated.tabs.defaultIcon": "snake",
+    "auto-close-tag.fullMode": true,
+    "auto-close-tag.SublimeText3Mode": true
 }
