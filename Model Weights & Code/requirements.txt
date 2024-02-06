@@ -39,7 +39,7 @@ command-not-found==0.3
 confection==0.1.4
 constantly==23.10.4
 contourpy==1.2.0
-cryptography==41.0.7
+cryptography==42.0.0
 cssselect==1.2.0
 cupshelpers==1.0
 cycler==0.12.1
